@@ -6,4 +6,4 @@ This repository contains my personal research page, showcasing my work and usefu
 - CUDA Programming
 - Efficient Inference
 
-Visit the page at: https://[your-github-username].github.io
+Visit the page at: https://zelci.github.io
